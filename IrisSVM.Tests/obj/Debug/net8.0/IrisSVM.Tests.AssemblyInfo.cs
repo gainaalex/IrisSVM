@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IrisSVM.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+898f48fe17901f090b12bc9b77931cfd59777ada")]
 [assembly: System.Reflection.AssemblyProductAttribute("IrisSVM.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IrisSVM.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

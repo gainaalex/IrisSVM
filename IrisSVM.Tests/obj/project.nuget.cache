@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VzDdrgjajoKdE3N/qGCbQvElaamFAmd2kAaw70S6T6pfmxlrug+LWtYsOzLDpue1dbkX8e895TtsKK14LGazIw==",
+  "dgSpecHash": "BRdId1nIeb+jnoGfMJy+M315BNtp4ktefLDKWdweFi3hENgB4WYlkUSHzGsgBUVIKwYp6WhlyN0Z92E2ugwdBA==",
   "success": true,
-  "projectFilePath": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM.Tests\\IrisSVM.Tests.csproj",
+  "projectFilePath": "C:\\Users\\PC 2\\Desktop\\ia\\IrisSVM\\IrisSVM.Tests\\IrisSVM.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC 2\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\PC 2\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

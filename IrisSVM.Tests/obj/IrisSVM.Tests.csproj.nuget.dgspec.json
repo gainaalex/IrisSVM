@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM.Tests\\IrisSVM.Tests.csproj": {}
+    "C:\\Users\\PC 2\\Desktop\\ia\\IrisSVM\\IrisSVM.Tests\\IrisSVM.Tests.csproj": {}
   },
   "projects": {
-    "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM.Tests\\IrisSVM.Tests.csproj": {
+    "C:\\Users\\PC 2\\Desktop\\ia\\IrisSVM\\IrisSVM.Tests\\IrisSVM.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM.Tests\\IrisSVM.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\PC 2\\Desktop\\ia\\IrisSVM\\IrisSVM.Tests\\IrisSVM.Tests.csproj",
         "projectName": "IrisSVM.Tests",
-        "projectPath": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM.Tests\\IrisSVM.Tests.csproj",
+        "projectPath": "C:\\Users\\PC 2\\Desktop\\ia\\IrisSVM\\IrisSVM.Tests\\IrisSVM.Tests.csproj",
         "packagesPath": "C:\\Users\\PC 2\\.nuget\\packages\\",
-        "outputPath": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM.Tests\\obj\\",
+        "outputPath": "C:\\Users\\PC 2\\Desktop\\ia\\IrisSVM\\IrisSVM.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM\\IrisSVM.csproj": {
-                "projectPath": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM\\IrisSVM.csproj"
+              "C:\\Users\\PC 2\\Desktop\\ia\\IrisSVM\\IrisSVM\\IrisSVM.csproj": {
+                "projectPath": "C:\\Users\\PC 2\\Desktop\\ia\\IrisSVM\\IrisSVM\\IrisSVM.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM\\IrisSVM.csproj": {
+    "C:\\Users\\PC 2\\Desktop\\ia\\IrisSVM\\IrisSVM\\IrisSVM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM\\IrisSVM.csproj",
+        "projectUniqueName": "C:\\Users\\PC 2\\Desktop\\ia\\IrisSVM\\IrisSVM\\IrisSVM.csproj",
         "projectName": "IrisSVM",
-        "projectPath": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM\\IrisSVM.csproj",
+        "projectPath": "C:\\Users\\PC 2\\Desktop\\ia\\IrisSVM\\IrisSVM\\IrisSVM.csproj",
         "packagesPath": "C:\\Users\\PC 2\\.nuget\\packages\\",
-        "outputPath": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM\\obj\\",
+        "outputPath": "C:\\Users\\PC 2\\Desktop\\ia\\IrisSVM\\IrisSVM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
