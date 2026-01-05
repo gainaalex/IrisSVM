@@ -1,0 +1,15 @@
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\bin\Debug\net8.0\IrisProject.exe
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\bin\Debug\net8.0\IrisProject.deps.json
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\bin\Debug\net8.0\IrisProject.runtimeconfig.json
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\bin\Debug\net8.0\IrisProject.dll
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\bin\Debug\net8.0\IrisProject.pdb
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\obj\Debug\net8.0\IrisProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\obj\Debug\net8.0\IrisProject.AssemblyInfoInputs.cache
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\obj\Debug\net8.0\IrisProject.AssemblyInfo.cs
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\obj\Debug\net8.0\IrisProject.csproj.CoreCompileInputs.cache
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\obj\Debug\net8.0\IrisProject.sourcelink.json
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\obj\Debug\net8.0\IrisProject.dll
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\obj\Debug\net8.0\refint\IrisProject.dll
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\obj\Debug\net8.0\IrisProject.pdb
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\obj\Debug\net8.0\IrisProject.genruntimeconfig.cache
+E:\ce ar trebui sa pastrez\AN 4\IA\IrisSVM\IrisProject\IrisProject\obj\Debug\net8.0\ref\IrisProject.dll
