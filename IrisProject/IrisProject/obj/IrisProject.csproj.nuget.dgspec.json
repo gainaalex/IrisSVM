@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\IrisSVM\\IrisProject\\IrisProject\\IrisProject.csproj": {}
+    "C:\\Users\\gamia\\OneDrive\\Desktop\\Facultate\\Anul IV\\Semestrul I\\IA\\proiect\\IrisSVM\\IrisProject\\IrisProject\\IrisProject.csproj": {}
   },
   "projects": {
-    "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\IrisSVM\\IrisProject\\IrisProject\\IrisProject.csproj": {
+    "C:\\Users\\gamia\\OneDrive\\Desktop\\Facultate\\Anul IV\\Semestrul I\\IA\\proiect\\IrisSVM\\IrisProject\\IrisProject\\IrisProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\IrisSVM\\IrisProject\\IrisProject\\IrisProject.csproj",
+        "projectUniqueName": "C:\\Users\\gamia\\OneDrive\\Desktop\\Facultate\\Anul IV\\Semestrul I\\IA\\proiect\\IrisSVM\\IrisProject\\IrisProject\\IrisProject.csproj",
         "projectName": "IrisProject",
-        "projectPath": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\IrisSVM\\IrisProject\\IrisProject\\IrisProject.csproj",
-        "packagesPath": "C:\\Users\\ALBERTO\\.nuget\\packages\\",
-        "outputPath": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\IrisSVM\\IrisProject\\IrisProject\\obj\\",
+        "projectPath": "C:\\Users\\gamia\\OneDrive\\Desktop\\Facultate\\Anul IV\\Semestrul I\\IA\\proiect\\IrisSVM\\IrisProject\\IrisProject\\IrisProject.csproj",
+        "packagesPath": "C:\\Users\\gamia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gamia\\OneDrive\\Desktop\\Facultate\\Anul IV\\Semestrul I\\IA\\proiect\\IrisSVM\\IrisProject\\IrisProject\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALBERTO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gamia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +45,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -65,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

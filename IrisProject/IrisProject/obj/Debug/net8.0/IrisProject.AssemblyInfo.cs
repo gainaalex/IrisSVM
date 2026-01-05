@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IrisProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+216c3857198fdb072b12f8259b178dd52096a6bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da28647aef9d29152abb19a1449773bedd0798c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("IrisProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IrisProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
