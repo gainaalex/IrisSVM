@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM.Tests\\IrisSVM.Tests.csproj": {}
+  },
+  "projects": {
+    "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM.Tests\\IrisSVM.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM.Tests\\IrisSVM.Tests.csproj",
+        "projectName": "IrisSVM.Tests",
+        "projectPath": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM.Tests\\IrisSVM.Tests.csproj",
+        "packagesPath": "C:\\Users\\PC 2\\.nuget\\packages\\",
+        "outputPath": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM\\IrisSVM.csproj": {
+                "projectPath": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM\\IrisSVM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM\\IrisSVM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM\\IrisSVM.csproj",
+        "projectName": "IrisSVM",
+        "projectPath": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM\\IrisSVM.csproj",
+        "packagesPath": "C:\\Users\\PC 2\\.nuget\\packages\\",
+        "outputPath": "K:\\AC_CTI\\AN IV\\IA\\proiect\\cod sursa\\IrisSVM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

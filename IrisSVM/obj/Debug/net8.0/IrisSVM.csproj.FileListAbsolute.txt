@@ -1,0 +1,14 @@
+K:\AC_CTI\AN IV\IA\proiect\cod sursa\IrisSVM\bin\Debug\net8.0\IrisSVM.exe
+K:\AC_CTI\AN IV\IA\proiect\cod sursa\IrisSVM\bin\Debug\net8.0\IrisSVM.deps.json
+K:\AC_CTI\AN IV\IA\proiect\cod sursa\IrisSVM\bin\Debug\net8.0\IrisSVM.runtimeconfig.json
+K:\AC_CTI\AN IV\IA\proiect\cod sursa\IrisSVM\bin\Debug\net8.0\IrisSVM.dll
+K:\AC_CTI\AN IV\IA\proiect\cod sursa\IrisSVM\bin\Debug\net8.0\IrisSVM.pdb
+K:\AC_CTI\AN IV\IA\proiect\cod sursa\IrisSVM\obj\Debug\net8.0\IrisSVM.GeneratedMSBuildEditorConfig.editorconfig
+K:\AC_CTI\AN IV\IA\proiect\cod sursa\IrisSVM\obj\Debug\net8.0\IrisSVM.AssemblyInfoInputs.cache
+K:\AC_CTI\AN IV\IA\proiect\cod sursa\IrisSVM\obj\Debug\net8.0\IrisSVM.AssemblyInfo.cs
+K:\AC_CTI\AN IV\IA\proiect\cod sursa\IrisSVM\obj\Debug\net8.0\IrisSVM.csproj.CoreCompileInputs.cache
+K:\AC_CTI\AN IV\IA\proiect\cod sursa\IrisSVM\obj\Debug\net8.0\IrisSVM.dll
+K:\AC_CTI\AN IV\IA\proiect\cod sursa\IrisSVM\obj\Debug\net8.0\refint\IrisSVM.dll
+K:\AC_CTI\AN IV\IA\proiect\cod sursa\IrisSVM\obj\Debug\net8.0\IrisSVM.pdb
+K:\AC_CTI\AN IV\IA\proiect\cod sursa\IrisSVM\obj\Debug\net8.0\IrisSVM.genruntimeconfig.cache
+K:\AC_CTI\AN IV\IA\proiect\cod sursa\IrisSVM\obj\Debug\net8.0\ref\IrisSVM.dll
