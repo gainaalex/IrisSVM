@@ -27,3 +27,18 @@ C:\Users\PC 2\Desktop\ia\IrisSVM\IrisSVM\obj\Debug\net8.0\refint\IrisSVM.dll
 C:\Users\PC 2\Desktop\ia\IrisSVM\IrisSVM\obj\Debug\net8.0\IrisSVM.pdb
 C:\Users\PC 2\Desktop\ia\IrisSVM\IrisSVM\obj\Debug\net8.0\IrisSVM.genruntimeconfig.cache
 C:\Users\PC 2\Desktop\ia\IrisSVM\IrisSVM\obj\Debug\net8.0\ref\IrisSVM.dll
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\bin\Debug\net8.0\IrisSVM.exe
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\bin\Debug\net8.0\IrisSVM.deps.json
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\bin\Debug\net8.0\IrisSVM.runtimeconfig.json
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\bin\Debug\net8.0\IrisSVM.dll
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\bin\Debug\net8.0\IrisSVM.pdb
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\obj\Debug\net8.0\IrisSVM.GeneratedMSBuildEditorConfig.editorconfig
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\obj\Debug\net8.0\IrisSVM.AssemblyInfoInputs.cache
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\obj\Debug\net8.0\IrisSVM.AssemblyInfo.cs
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\obj\Debug\net8.0\IrisSVM.csproj.CoreCompileInputs.cache
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\obj\Debug\net8.0\IrisSVM.sourcelink.json
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\obj\Debug\net8.0\IrisSVM.dll
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\obj\Debug\net8.0\refint\IrisSVM.dll
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\obj\Debug\net8.0\IrisSVM.pdb
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\obj\Debug\net8.0\IrisSVM.genruntimeconfig.cache
+E:\ce ar trebui sa pastrez\AN 4\IA\git2.0\IrisSVM\IrisSVM\obj\Debug\net8.0\ref\IrisSVM.dll

@@ -51,7 +51,32 @@ namespace IrisProject.Tests
         }
 
         [TestMethod]
-        public void Solve_ShouldProduceFiniteNonTrivialW_AndFiniteB()
+
+        public void WNorm_ShouldBeNonZeroAfterSolve() // vect w nu e zero dupa optimizare
+        {
+            var x = new List<double[]>
+            {
+                new double[]{5.1, 3.5, 1.4, 0.2},
+                new double[]{4.9, 3.0, 1.4, 0.2},
+                new double[]{6.0, 2.9, 4.5, 1.5},
+                new double[]{6.7, 3.1, 4.7, 1.5},
+            };
+
+            var y = new List<int> { +1, +1, -1, -1 };
+            double C = 1.0;
+            var p = new IrisClasificationProblem(x, y, C);
+            var ea = new EvolutionaryAlgorithm();
+
+            var best = ea.Solve(p, 60, 120, 0.7, 0.1);
+            var w = IrisClasificationProblem.ComputeW(x, y, best);
+
+            double norm = Math.Sqrt(w.Sum(v => v * v));
+
+            Assert.IsTrue(norm > 1e-6, $"Norma w trebuie sa fie semnificativa, dar a fost {norm}");
+        }
+
+        [TestMethod]
+        public void Solve_ShouldProduceFiniteNonTrivialW_AndFiniteB() // verifica ca alg evo produce vector w si bias b finite si nenule
         {
             // set mic, separabil aproape liniar (Setosa(1) si Versicolor(-1))
             var X = new List<double[]>
@@ -82,7 +107,7 @@ namespace IrisProject.Tests
         }
 
         [TestMethod]
-        public void TrainedModel_ShouldClassifyTrainingPoints_WithGoodAccuracy()
+        public void TrainedModel_ShouldClassifyTrainingPoints_WithGoodAccuracy() // verifica ca model antrenat poate clasifica corect puncte de antrenament cu acc rezonabila
         {
             var X = new List<double[]>
             {

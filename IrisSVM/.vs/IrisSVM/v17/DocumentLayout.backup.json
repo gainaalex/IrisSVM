@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F22F750C-C680-4D36-966A-65376B2792E8}|..\\IrisSVM.Tests\\IrisSVM.Tests.csproj|e:\\ce ar trebui sa pastrez\\an 4\\ia\\git2.0\\irissvm\\irissvm.tests\\svmqualitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22F750C-C680-4D36-966A-65376B2792E8}|..\\IrisSVM.Tests\\IrisSVM.Tests.csproj|e:\\ce ar trebui sa pastrez\\an 4\\ia\\git2.0\\irissvm\\irissvm.tests\\svmonirisdatasettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22F750C-C680-4D36-966A-65376B2792E8}|..\\IrisSVM.Tests\\IrisSVM.Tests.csproj|e:\\ce ar trebui sa pastrez\\an 4\\ia\\git2.0\\irissvm\\irissvm.tests\\irisdatatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22F750C-C680-4D36-966A-65376B2792E8}|..\\IrisSVM.Tests\\IrisSVM.Tests.csproj|e:\\ce ar trebui sa pastrez\\an 4\\ia\\git2.0\\irissvm\\irissvm.tests\\evoalgotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377A10D9-C43B-4A97-A5E8-E47EDB0C3240}|IrisSVM.csproj|e:\\ce ar trebui sa pastrez\\an 4\\ia\\git2.0\\irissvm\\irissvm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377A10D9-C43B-4A97-A5E8-E47EDB0C3240}|IrisSVM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377A10D9-C43B-4A97-A5E8-E47EDB0C3240}|IrisSVM.csproj|e:\\ce ar trebui sa pastrez\\an 4\\ia\\git2.0\\irissvm\\irissvm\\optimizationproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377A10D9-C43B-4A97-A5E8-E47EDB0C3240}|IrisSVM.csproj|solutionrelative:optimizationproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377A10D9-C43B-4A97-A5E8-E47EDB0C3240}|IrisSVM.csproj|e:\\ce ar trebui sa pastrez\\an 4\\ia\\git2.0\\irissvm\\irissvm\\irisdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377A10D9-C43B-4A97-A5E8-E47EDB0C3240}|IrisSVM.csproj|solutionrelative:irisdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377A10D9-C43B-4A97-A5E8-E47EDB0C3240}|IrisSVM.csproj|e:\\ce ar trebui sa pastrez\\an 4\\ia\\git2.0\\irissvm\\irissvm\\chromosome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377A10D9-C43B-4A97-A5E8-E47EDB0C3240}|IrisSVM.csproj|solutionrelative:chromosome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377A10D9-C43B-4A97-A5E8-E47EDB0C3240}|IrisSVM.csproj|e:\\ce ar trebui sa pastrez\\an 4\\ia\\git2.0\\irissvm\\irissvm\\evoalgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377A10D9-C43B-4A97-A5E8-E47EDB0C3240}|IrisSVM.csproj|solutionrelative:evoalgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IrisDataTest.cs",
+              "DocumentMoniker": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM.Tests\\IrisDataTest.cs",
+              "RelativeDocumentMoniker": "..\\IrisSVM.Tests\\IrisDataTest.cs",
+              "ToolTip": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM.Tests\\IrisDataTest.cs",
+              "RelativeToolTip": "..\\IrisSVM.Tests\\IrisDataTest.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowD4AAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:34:44.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SvmOnIrisDatasetTests.cs",
+              "DocumentMoniker": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM.Tests\\SvmOnIrisDatasetTests.cs",
+              "RelativeDocumentMoniker": "..\\IrisSVM.Tests\\SvmOnIrisDatasetTests.cs",
+              "ToolTip": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM.Tests\\SvmOnIrisDatasetTests.cs",
+              "RelativeToolTip": "..\\IrisSVM.Tests\\SvmOnIrisDatasetTests.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAowMsAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:30:45.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SvmQualityTests.cs",
+              "DocumentMoniker": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM.Tests\\SvmQualityTests.cs",
+              "RelativeDocumentMoniker": "..\\IrisSVM.Tests\\SvmQualityTests.cs",
+              "ToolTip": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM.Tests\\SvmQualityTests.cs",
+              "RelativeToolTip": "..\\IrisSVM.Tests\\SvmQualityTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAG0AAACtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:30:45.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EvoAlgoTest.cs",
+              "DocumentMoniker": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM.Tests\\EvoAlgoTest.cs",
+              "RelativeDocumentMoniker": "..\\IrisSVM.Tests\\EvoAlgoTest.cs",
+              "ToolTip": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM.Tests\\EvoAlgoTest.cs",
+              "RelativeToolTip": "..\\IrisSVM.Tests\\EvoAlgoTest.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwB4AAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:30:45.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvzwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:30:45.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OptimizationProblem.cs",
+              "DocumentMoniker": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM\\OptimizationProblem.cs",
+              "RelativeDocumentMoniker": "OptimizationProblem.cs",
+              "ToolTip": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM\\OptimizationProblem.cs",
+              "RelativeToolTip": "OptimizationProblem.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAwwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:30:45.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IrisData.cs",
+              "DocumentMoniker": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM\\IrisData.cs",
+              "RelativeDocumentMoniker": "IrisData.cs",
+              "ToolTip": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM\\IrisData.cs",
+              "RelativeToolTip": "IrisData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:30:45.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chromosome.cs",
+              "DocumentMoniker": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM\\Chromosome.cs",
+              "RelativeDocumentMoniker": "Chromosome.cs",
+              "ToolTip": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM\\Chromosome.cs",
+              "RelativeToolTip": "Chromosome.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:30:45.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EvoAlgo.cs",
+              "DocumentMoniker": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM\\EvoAlgo.cs",
+              "RelativeDocumentMoniker": "EvoAlgo.cs",
+              "ToolTip": "E:\\ce ar trebui sa pastrez\\AN 4\\IA\\git2.0\\IrisSVM\\IrisSVM\\EvoAlgo.cs",
+              "RelativeToolTip": "EvoAlgo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAF0AAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:30:45.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

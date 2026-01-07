@@ -8,7 +8,7 @@ namespace IrisSVM.tests
     public class EvoAlgoTests
     {
         [TestMethod]
-        public void GetBest_ShouldReturnChromosomeWithHighestFitness()
+        public void GetBest_ShouldReturnChromosomeWithHighestFitness() // verifica ca metoda GetBest returneaza cromozom cu cel mai mare fitness
         {
             // Arrange
             var mins = new double[] { 0 };
@@ -28,7 +28,7 @@ namespace IrisSVM.tests
         }
 
         [TestMethod]
-        public void Crossover_Arithmetic_ShouldRespectFormula()
+        public void Crossover_Arithmetic_ShouldRespectFormula() //verifica ca op de crossover calculeaza corect gene copil
         {
             // Arrange
             double[] mins = { 0 };
@@ -47,6 +47,23 @@ namespace IrisSVM.tests
 
             // Assert
             Assert.AreEqual(10.0, kid.Genes[0], 1e-9);
+        }
+
+        [TestMethod]
+
+        public void Tournament_ShouldReturnOneOfTwoParents() // returneaza mereu un parinte valid
+        {
+            var mins = new double[] { 0 };
+            var maxs = new double[] { 1 };
+            var pop = new[]
+            {
+                new Chromosome(1, mins, maxs) {Fitness = 5},
+                new Chromosome(1, mins, maxs) {Fitness = 10}
+            };
+
+            var selected = Selection.Tournament(pop);
+
+            Assert.IsTrue(selected.Fitness == 5 || selected.Fitness == 10, "Tournament ret unul dintre parinti");
         }
     }
 }

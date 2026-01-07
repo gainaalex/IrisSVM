@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IrisSVM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+898f48fe17901f090b12bc9b77931cfd59777ada")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba801efa01350cadb9809fff0e3688d6c0938cf7")]
 [assembly: System.Reflection.AssemblyProductAttribute("IrisSVM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IrisSVM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

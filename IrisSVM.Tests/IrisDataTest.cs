@@ -18,7 +18,7 @@ namespace IrisSVM.tests
         }
 
         [TestMethod]
-        public void LoadIrisData_ShouldLoadValidData_AndFilterCorrectly()
+        public void LoadIrisData_ShouldLoadValidData_AndFilterCorrectly() // verifica ca fisierul CSV e corect si clasele sunt mapate +1/-1
         {
             // 1. Arrange
             var csvContent =
@@ -47,7 +47,7 @@ namespace IrisSVM.tests
         }
 
         [TestMethod]
-        public void LoadIrisData_FileNotFound_ThrowsFileNotFoundException()
+        public void LoadIrisData_FileNotFound_ThrowsFileNotFoundException() // verifica ca metoda arunca exceptie daca fisierul nu exista
         {
             // Arrange
             var irisData = new IrisData();
@@ -60,7 +60,7 @@ namespace IrisSVM.tests
         }
 
         [TestMethod]
-        public void LoadIrisData_EmptyFile_ReturnsEmptyLists()
+        public void LoadIrisData_EmptyFile_ReturnsEmptyLists() // verifica ca un fisier gol produce liste x si y goale
         {
             // Arrange
             File.WriteAllText(_testFilePath, "");
@@ -72,6 +72,24 @@ namespace IrisSVM.tests
             // Assert
             Assert.AreEqual(0, irisData.X.Count);
             Assert.AreEqual(0, irisData.y.Count);
+        }
+
+        [TestMethod]
+
+        public void LoadIrisData_ShouldIgnoreInvalidLines() // ignora liniile invalide
+        {
+            var csvContent =
+                "5.1,3.5,1.4,0.2,Iris-setosa\n" +
+                "invalid,line,here\n" +  // linie invalida
+                "6.0,2.9,4.5,1.5,Iris-versicolor";
+            File.WriteAllText(_testFilePath, csvContent);
+
+            var iris = new IrisData();
+
+            iris.LoadIrisData(_testFilePath);
+
+            Assert.AreEqual(2, iris.X.Count, "Trebuie ignorate linii invalide");
+            Assert.AreEqual(2, iris.y.Count);
         }
 
         // Rulează după FIECARE test

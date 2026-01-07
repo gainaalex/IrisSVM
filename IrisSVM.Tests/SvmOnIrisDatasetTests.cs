@@ -143,7 +143,7 @@ namespace IrisProject.Tests
             => Decision(w, b, x) >= 0 ? +1 : -1;
 
         [TestMethod]
-        public void TrainOnIrisSubset_ShouldAchieveHighTrainingAccuracy()
+        public void TrainOnIrisSubset_ShouldAchieveHighTrainingAccuracy() // verifica ca alg evo poate invata pe subsetul Setosa/vertosa cu acc > 95%
         {
             ParseSetosaVersicolor(out var X, out var Y);
 
@@ -177,7 +177,31 @@ namespace IrisProject.Tests
         }
 
         [TestMethod]
-        public void TrainedModel_ShouldClassifyNewExamples_Correctly()
+
+        public void SmallDataset_ShouldProduceFiniteWandB() // verifica daca pe un subset mic, w si b sunt finite
+        {
+            var x = new List<double[]>
+            {
+                new double[]{5.1, 3.5, 1.4, 0.2},
+                new double[]{6.0, 2,9, 4.5, 1.5}
+            };
+
+            var y = new List<int> { +1, -1 };
+
+            var p = new IrisClasificationProblem(x, y, 1.0);
+            var ea = new EvolutionaryAlgorithm();
+
+            var best = ea.Solve(p, 10, 20, 0.7, 0.1);
+            var w = IrisClasificationProblem.ComputeW(x, y, best);
+            var b = IrisClasificationProblem.ComputeB(x, y, best);
+
+            Assert.IsFalse(w.Any(double.IsNaN), "w nu tre sa aiba NaN");
+            Assert.IsFalse(double.IsInfinity(b), "b sa nu fie infinit");
+
+        }
+
+        [TestMethod]
+        public void TrainedModel_ShouldClassifyNewExamples_Correctly() // verifica ca pe un subset mic de date, vect. w si bias b sunt finite si valide
         {
             ParseSetosaVersicolor(out var X, out var Y);
 
