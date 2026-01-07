@@ -183,7 +183,7 @@ namespace IrisProject.Tests
             var x = new List<double[]>
             {
                 new double[]{5.1, 3.5, 1.4, 0.2},
-                new double[]{6.0, 2,9, 4.5, 1.5}
+                new double[]{6.0, 2.9, 4.5, 1.5}
             };
 
             var y = new List<int> { +1, -1 };
